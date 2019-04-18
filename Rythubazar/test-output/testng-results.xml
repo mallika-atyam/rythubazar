@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-18T11:29:21Z" name="Default suite" finished-at="2019-04-18T11:30:13Z" duration-ms="51861">
+    <groups>
+    </groups>
+    <test started-at="2019-04-18T11:29:21Z" name="Default test" finished-at="2019-04-18T11:30:13Z" duration-ms="51861">
+      <class name="vegetables.ExportnLeastCosts">
+        <test-method is-config="true" signature="suiteSetup1()[pri:0, instance:vegetables.ExportnLeastCosts@37f1104d]" started-at="2019-04-18T11:29:21Z" name="suiteSetup1" finished-at="2019-04-18T11:29:22Z" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup1 -->
+        <test-method signature="ExportAllVegetables()[pri:0, instance:vegetables.ExportnLeastCosts@37f1104d]" started-at="2019-04-18T11:29:22Z" name="ExportAllVegetables" finished-at="2019-04-18T11:30:12Z" duration-ms="50571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExportAllVegetables -->
+        <test-method is-config="true" signature="AftersuiteSetup2()[pri:0, instance:vegetables.ExportnLeastCosts@37f1104d]" started-at="2019-04-18T11:30:12Z" name="AftersuiteSetup2" finished-at="2019-04-18T11:30:13Z" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftersuiteSetup2 -->
+      </class> <!-- vegetables.ExportnLeastCosts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
